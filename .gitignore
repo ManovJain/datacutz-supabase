@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Environment
+.env
+.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Node (if applicable)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+
+# Logs
+logs/
+*.log
+
+# Supabase CLI temp/state
+supabase/.temp/
+supabase/.branches/
+
+
